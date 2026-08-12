@@ -1,15 +1,31 @@
 <div align="center">
 
-# ⋆｡°✩ `nintend0ll` ✩°｡⋆
+<h1>
+  <span style="color:#CDB4DB;">⋆｡°✩</span>
+  <span style="color:#9B7EBD;">nintend0ll</span>
+  <span style="color:#CDB4DB;">✩°｡⋆</span>
+</h1>
 
-### Agustina Sánchez Montoro
+<h3>
+  <span style="color:#B8A1D1;">♡ Agustina Sánchez Montoro ♡</span>
+</h3>
 
-**Software Developer · Student · Creative Coder**
+<p>
+  <span style="color:#9B7EBD;">
+    ♡ turning ideas into code ♡
+  </span>
+</p>
 
-`🇺🇾 Uruguay` · `💻 Software Development` · `🌷 Always learning`
+<br>
+
+<p>
+  <span style="color:#CDB4DB;">✿</span>
+  🇺🇾 Uruguay
+  &nbsp;♡&nbsp;
+  💻 Software Development
+</p>
 
 </div>
-
 ---
 
 <table>
