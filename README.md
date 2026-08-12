@@ -105,36 +105,6 @@ I'm particularly interested in **software development, web technologies and crea
 </tr>
 </table>
 
----
-
-
----
-
-<div align="center">
-
-## 🌱 What I'm learning
-
-```text
-        ┌─────────────────────┐
-        │   Learn something   │
-        └──────────┬──────────┘
-                   ↓
-        ┌─────────────────────┐
-        │   Build a project   │
-        └──────────┬──────────┘
-                   ↓
-        ┌─────────────────────┐
-        │   Break something   │
-        └──────────┬──────────┘
-                   ↓
-        ┌─────────────────────┐
-        │     Debug it ☕     │
-        └──────────┬──────────┘
-                   ↓
-              ✨ repeat ✨
-```
-
-</div>
 
 ---
 
@@ -188,10 +158,6 @@ Queries & database design
 
 <a href="https://www.linkedin.com/in/agustina-sanchez-montoro/">
 <img src="https://img.shields.io/badge/LinkedIn-D8C4E8?style=for-the-badge&logo=linkedin&logoColor=6B4C6D"/>
-</a>
-
-<a href="https://github.com/nintend0ll">
-<img src="https://img.shields.io/badge/GitHub-E8D5F2?style=for-the-badge&logo=github&logoColor=6B4C6D"/>
 </a>
 
 <br><br>
