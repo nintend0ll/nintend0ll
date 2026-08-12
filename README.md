@@ -72,7 +72,12 @@ I'm particularly interested in **software development, web technologies and crea
 
 ### 🧩 Development Practices
 
-`REST APIs` · `MVC Architecture` · `Object-Oriented Programming` · `Design Patterns` · `Responsive Design` · `Agile`
+![REST APIs](https://img.shields.io/badge/REST%20APIs-D8C4E8?style=for-the-badge&logoColor=5C4666)
+![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-CDB4DB?style=for-the-badge&logoColor=5C4666)
+![Object Oriented Programming](https://img.shields.io/badge/Object--Oriented%20Programming-B8A1D1?style=for-the-badge&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-DDBDF1?style=for-the-badge&logoColor=6B4C6D)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-F2B5D4?style=for-the-badge&logoColor=6B4C6D)
+![Agile](https://img.shields.io/badge/Agile-E8D5F2?style=for-the-badge&logoColor=6B4C6D)
 
 ### 🖥️ Operating Systems
 
