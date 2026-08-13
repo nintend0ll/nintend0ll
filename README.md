@@ -1,167 +1,202 @@
 <div align="center">
 
-<h1>
-  <span style="color:#CDB4DB;">⋆｡°✩</span>
-  <span style="color:#9B7EBD;">nintend0ll</span>
-  <span style="color:#CDB4DB;">✩°｡⋆</span>
-</h1>
+```text
+              _         _   _                 _ _ _
+  __ _  __ _ (_)___ ___| |_(_)_ __   __ _  __| (_) | __ _
+ / _` |/ _` || / __/ _ \ __| | '_ \ / _` |/ _` | | |/ _` |
+| (_| | (_| || \__ \  __/ |_| | | | | (_| | (_| | | | (_| |
+ \__, |\__,_|/ |___/\___|\__|_|_| |_|\__,_|\__,_|_|_|\__,_|
+ |___/       |__/
+```
 
-<h3>
-  <span style="color:#B8A1D1;">♡ Agustina Sánchez Montoro ♡</span>
-</h3>
-
-<p>
-  <span style="color:#9B7EBD;">
-    ♡ turning ideas into code ♡
-  </span>
-</p>
-
-<br>
-
-<p>
-  <span style="color:#CDB4DB;">✿</span>
-  🇺🇾 Uruguay
-  &nbsp;♡&nbsp;
-  💻 Software Development
-</p>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   agustina@github:~$ whoami                                 │
+│                                                             │
+│   Agustina Sánchez Montoro                                  │
+│   Software Development Student                              │
+│   Uruguay 🇺🇾                                               │
+│                                                             │
+│   ♡ turning ideas into code ♡                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
+---
 
-<table>
-<tr>
+```bash
+agustina@github:~$ cat about.txt
+```
 
-<td width="50%" valign="top">
+I'm **Agustina**, a Software Development student at **ORT Uruguay**.
 
-## 🌸 About me
+I enjoy building applications, experimenting with interfaces and turning ideas into working software.
 
-Hi! I'm **Agustina**, a Software Development student at **ORT Uruguay**.
+Currently focused on improving my skills as a developer and building projects that combine **functionality, clean architecture and thoughtful UI**.
 
-I enjoy building applications, experimenting with interfaces and turning ideas into real projects.
+```text
+student → developer → ???
 
-I'm particularly interested in **software development, web technologies and creating useful applications with clean and intuitive interfaces.**
-
-### Currently
-
-* 🎓 Studying Software Development at ORT Uruguay
-* 💻 Building projects with Java, C# and JavaScript
-* 🌐 Learning more about React & .NET
-* 🗄️ Working with SQL Server & T-SQL
-* 🚀 Looking for opportunities as a Junior Developer
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💜 Tech stack
-
-### 👩‍💻 Programming Languages
-
-![C#](https://img.shields.io/badge/C%23-B8A1D1?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-CDB4DB?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F2D7EE?style=for-the-badge\&logo=javascript\&logoColor=6B4C6D)
-![SQL](https://img.shields.io/badge/SQL-D8C4E8?style=for-the-badge\&logo=databricks\&logoColor=5C4666)
-![GeneXus](https://img.shields.io/badge/GeneXus-9B7EBD?style=for-the-badge\&logoColor=white)
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-C8B6FF?style=for-the-badge\&logo=react\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-F2B5D4?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-B8C0FF?style=for-the-badge\&logo=css3\&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-DDBDF1?style=for-the-badge\&logo=ionic\&logoColor=6B4C6D)
-
-### ⚙️ Backend
-
-![ASP.NET](https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-9B7EBD?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-CDB4DB?style=for-the-badge\&logo=dotnet\&logoColor=6B4C6D)
-![LINQ](https://img.shields.io/badge/LINQ-D8C4E8?style=for-the-badge\&logo=dotnet\&logoColor=5C4666)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-E8B4D9?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-E8D5F2?style=for-the-badge\&logo=github\&logoColor=6B4C6D)
-![Postman](https://img.shields.io/badge/Postman-F2B5D4?style=for-the-badge\&logo=postman\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-CDB4DB?style=for-the-badge\&logo=swagger\&logoColor=6B4C6D)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-B8A1D1?style=for-the-badge\&logo=visualstudio\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-D8C4E8?style=for-the-badge\&logo=visualstudiocode\&logoColor=5C4666)
-
-### 🧩 Development Practices
-
-![REST APIs](https://img.shields.io/badge/REST%20APIs-D8C4E8?style=for-the-badge&logoColor=5C4666)
-![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-CDB4DB?style=for-the-badge&logoColor=5C4666)
-![Object Oriented Programming](https://img.shields.io/badge/Object--Oriented%20Programming-B8A1D1?style=for-the-badge&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-DDBDF1?style=for-the-badge&logoColor=6B4C6D)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-F2B5D4?style=for-the-badge&logoColor=6B4C6D)
-![Agile](https://img.shields.io/badge/Agile-E8D5F2?style=for-the-badge&logoColor=6B4C6D)
-
-### 🖥️ Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-B8C0FF?style=for-the-badge\&logo=windows\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-CDB4DB?style=for-the-badge\&logo=linux\&logoColor=white)
-
-</td>
-
-</tr>
-</table>
-
+currently looking for opportunities to grow as a Junior Developer
+```
 
 ---
 
-## 💼 Development interests
+```bash
+agustina@github:~$ ls
+```
 
-<table>
-<tr>
+```text
+drwxr-xr-x  projects/
+drwxr-xr-x  skills/
+drwxr-xr-x  learning/
+-rw-r--r--  about.txt
+-rw-r--r--  contact.txt
+```
 
-<td width="33%" align="center">
+---
 
-### 🖥️ Software
+```bash
+agustina@github:~$ cat skills.txt
+```
 
-Application development
+### `Programming Languages`
+
+```text
+C#          Java          JavaScript
+SQL         GeneXus
+```
+
+### `Frontend`
+
+```text
+React       HTML5         CSS3
+Ionic
+```
+
+### `Backend`
+
+```text
+ASP.NET Web API
+.NET
+Entity Framework
+LINQ
+```
+
+### `Tools`
+
+```text
+Git         GitHub
+Postman     Swagger
+Visual Studio
+Visual Studio Code
+```
+
+### `Development Practices`
+
+```text
+REST APIs
+MVC Architecture
 Object-Oriented Programming
-MVC & architecture
+Design Patterns
+Responsive Design
+Agile
+```
 
-</td>
+### `Operating Systems`
 
-<td width="33%" align="center">
+```text
+Windows     Linux
+```
 
-### 🌐 Web
+---
 
-Frontend development
-Responsive interfaces
-React & JavaScript
+```bash
+agustina@github:~$ cat projects.txt
+```
 
-</td>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  [01] Medication Management System                          │
+│       C# · .NET · SQL Server                                │
+│       └─ MVP in progress                                    │
+│                                                             │
+│  [02] Personal Portfolio                                    │
+│       Next.js · React · CSS                                 │
+│       └─ agustinasmontoro.vercel.app                       │
+│                                                             │
+│  [03] Restaurant Management                                 │
+│       Java · Swing · MVC                                    │
+│       └─ Object-Oriented Programming project                │
+│                                                             │
+│  [04] Creative Web Projects                                 │
+│       HTML · CSS · JavaScript                               │
+│       └─ experiments & UI explorations                      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-<td width="33%" align="center">
+---
 
-### 🗄️ Data
+```bash
+agustina@github:~$ cat learning.txt
+```
 
-SQL Server
-T-SQL
-Queries & database design
+```text
+> Software Architecture
+> .NET & Web APIs
+> React
+> Database Design
+> Clean & Maintainable Code
+> Building better projects
+```
 
-</td>
+---
 
-</tr>
-</table>
+```bash
+agustina@github:~$ cat contact.txt
+```
+
+<div align="center">
+
+```text
+╭──────────────────────────────────────────╮
+│                                          │
+│  🌐  Portfolio                           │
+│  💼  LinkedIn                            │
+│  🐙  GitHub                              │
+│                                          │
+╰──────────────────────────────────────────╯
+```
+
+<a href="https://agustinasmontoro.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-9B7EBD?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/agustina-sanchez-5a3bb223b/">
+  <img src="https://img.shields.io/badge/LinkedIn-B8A1D1?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="https://github.com/nintend0ll">
+  <img src="https://img.shields.io/badge/GitHub-CDB4DB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## ♡ Let's connect ♡
+```bash
+agustina@github:~$ echo $CURRENT_STATUS
 
-<a href="https://agustinasmontoro.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-CDB4DB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+student → developer → ???
 
-<a href="https://www.linkedin.com/in/agustina-sanchez-montoro/">
-<img src="https://img.shields.io/badge/LinkedIn-D8C4E8?style=for-the-badge&logo=linkedin&logoColor=6B4C6D"/>
-</a>
-
-<br><br>
-
-`still learning · still building · still debugging` 🌷
+agustina@github:~$ _
+```
 
 </div>
